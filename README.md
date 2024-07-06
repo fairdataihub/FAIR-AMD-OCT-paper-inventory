@@ -19,7 +19,7 @@ This repository is meant to keep an inventory of all the resources associated wi
   </tr>
   <tr>
     <td> Dataset </td>
-    <td> Coming soon </td>
+    <td> https://doi.org/10.5281/zenodo.12669652 </td>
     <td> https://github.com/fairdataihub/FAIR-AMD-OCT-paper-dataset </td>
   </tr>
   <tr>
