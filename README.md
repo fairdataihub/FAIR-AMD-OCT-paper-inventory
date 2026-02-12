@@ -3,6 +3,7 @@
 ## About
 This repository is meant to keep an inventory of all the resources associated with the our paper where we assesed the FAIRness of AMD-related OCT datasets.
 
+## Inventory
 <table>
 <thead>
   <tr>
