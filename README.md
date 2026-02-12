@@ -14,8 +14,8 @@ This repository is meant to keep an inventory of all the resources associated wi
 <tbody>
   <tr>
     <td> Paper </td>
-    <td> Coming soon </td>
-    <td> Coming soon </td>
+    <td> https://doi.org/10.1016/j.exer.2025.110342 </td>
+    <td> N/A </td>
   </tr>
   <tr>
     <td> Dataset </td>
